@@ -25,7 +25,7 @@ CodeCollector is a cross-platform Flutter application for collecting, viewing, a
 Clone the repository:
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/LeoSmotryk/CodeCollector.git
 cd code_collector
 ```
 
